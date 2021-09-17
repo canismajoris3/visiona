@@ -121,7 +121,7 @@ SPRINT 4 ([Link da Pasta](https://github.com/canismajoris3/visiona/tree/4---SPRI
 |**Daniel Luciano dos Santos Filho**|Desenvolvedor  Front-End| [@LinkedIn](https://www.linkedin.com/in/daniel-filho-3b6583209/)|[@GitHub](https://github.com/daniellsfilho)|
 |**Guilherme Bernardo Guariglia Carissio**|Desenvolvedor Front-End|[@LinkedIn](https://www.linkedin.com/in/guilherme-carissio-7275a4207)|[@GitHub](https://github.com/GuilhermeCarissio777)|
 |**João Vitor Rodrigues Braga**|Desenvolvedor Back-End|[@LinkedIn](https://www.linkedin.com/in/ㅤlucas-midões-r-a5333110b)|[@GitHub](https://github.com/jvrb)||
-|**Antonio Alexandre Nepuceno**|Desenvolvedor Back-End|[@LinkedIn](https://www.linkedin.com/in/jefferson-silva-94b94218)|[@GitHub](https://github.com/LykeMidrod)|
+|**Antonio Alexandre Nepuceno**|Desenvolvedor Back-End|[@LinkedIn](https://www.linkedin.com/in/antonio-nepomuceno-04943720a)|[@GitHub](github.com/Nepoun)|
 
    
 
