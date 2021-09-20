@@ -7,16 +7,7 @@
 
 <hr>
 
-<p align="center">
-  <a href ="#rocket-o-projeto"> O Projeto </a>  • 
-  <a href ="#dart-proposta"> Proposta </a>  • 
-  <a href ="#hourglass_flowing_sand-planejamento-de-entregas"> Planejamento </a>  • 
-  <a href ="#calendar-as-sprints"> Sprints </a> • 
-  <a href ="#card_index_dividers-cards-das-sprints"> Cards </a>  •
-  <a href ="#computer-tecnologias-utilizadas"> Tecnologias </a>  • 
-  <a href ="#bar_chart-backlog-do-produto"> Backlog </a>  •
-  <a href ="#mortar_board-equipe"> Equipe </a> 
-</p>
+
 
 <br>
 
@@ -120,7 +111,7 @@ SPRINT 4 ([Link da Pasta](https://github.com/canismajoris3/visiona/tree/4---SPRI
 |**Bruno Pisciotta**|Product-Owner| [@LinkedIn](https://www.linkedin.com/in/bruno-pisciotta-577216198)|[@GitHub](https://github.com/bruno-pisciotta281)|
 |**Daniel Luciano dos Santos Filho**|Desenvolvedor  Front-End| [@LinkedIn](https://www.linkedin.com/in/daniel-filho-3b6583209/)|[@GitHub](https://github.com/daniellsfilho)|
 |**Guilherme Bernardo Guariglia Carissio**|Desenvolvedor Front-End|[@LinkedIn](https://www.linkedin.com/in/guilherme-carissio-7275a4207)|[@GitHub](https://github.com/GuilhermeCarissio777)|
-|**João Vitor Rodrigues Braga**|Desenvolvedor Back-End|[@LinkedIn](https://www.linkedin.com/in/lucas-midões-r-a5333110b)|[@GitHub](https://github.com/jvrb)|
+|**João Vitor Rodrigues Braga**|Desenvolvedor Back-End|[@LinkedIn](https://www.linkedin.com/in/joaovitor-rodriguesbraga/)|[@GitHub](https://github.com/jvrb)|
 |**Antonio Alexandre Nepuceno**|Desenvolvedor Back-End|[@LinkedIn](https://www.linkedin.com/in/antonio-nepomuceno-04943720a)|[@GitHub](https://github.com/Nepoun)|
 
    
