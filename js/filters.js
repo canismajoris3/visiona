@@ -48,13 +48,13 @@ function setimg(satelite){
 
 
     if(satelite == 1){
-        img.src = '../img/img1.png';
+        img.src = 'img/img1.png';
     }else if(satelite == 2){
-        img.src = '../img/img2.png';
+        img.src = 'img/img2.png';
     }else if(satelite == 3){
-        img.src = '../img/img3.png';
+        img.src = 'img/img3.png';
     }else if(satelite == 4){
-        img.src = '../img/img4.png';
+        img.src = 'img/img4.png';
     }
     resultado.appendChild(img);
 }
