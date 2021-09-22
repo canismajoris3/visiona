@@ -15,9 +15,7 @@ Na primeira entrega, decidimos juntamente com a necessidade do cliente, a aplica
 
 <br>
 
-<h3 align="center">TEAM</h3>
 
-<br>
 
 <h1>&#128200;Burndown</h1>
 
