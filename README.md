@@ -103,6 +103,12 @@ SPRINT 4 ([Link da Pasta](https://github.com/canismajoris3/visiona/tree/4---SPRI
 
 <br>
 
+## &#128195; Levantamento de Requisitos
+
+<h1 align="center"> <img src = "https://github.com/canismajoris3/visiona/blob/main/assets_readme/levantamento_de_requisitos.png" /></h1>
+
+<br>
+
 ## :mortar_board: Equipe 
 
 |Nome|Função|Linkedin|GitHub|
