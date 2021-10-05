@@ -64,18 +64,18 @@ Trabalho desenvolvido pelos integrantes do grupo 3 do curso de Desenvolvimento d
 
 ## :calendar: As Sprints
 
-☑️ SPRINT 1 ([Link da Pasta](https://github.com/canismajoris3/visiona/tree/1---SPRINT): Concluído :heavy_check_mark:
+☑️ SPRINT 1 ([Link da Pasta](https://github.com/canismajoris3/visiona/tree/1---SPRINT)) Concluído :heavy_check_mark:
 
-SPRINT 2 ([Link da Pasta](https://github.com/canismajoris3/visiona/tree/2---SPRINT): Concluído :heavy_check_mark:
+☑️ SPRINT 2 ([Link da Pasta](https://github.com/canismajoris3/visiona/tree/2---SPRINT)) Concluído :heavy_check_mark:
 
-SPRINT 3 ([Link da Pasta](https://github.com/canismajoris3/visiona/tree/3---SPRINT): Concluído :heavy_check_mark: 
+SPRINT 3 ([Link da Pasta](https://github.com/canismajoris3/visiona/tree/3---SPRINT))
 
-SPRINT 4 ([Link da Pasta](https://github.com/canismajoris3/visiona/tree/4---SPRINT): Concluído :heavy_check_mark: 
+SPRINT 4 ([Link da Pasta](https://github.com/canismajoris3/visiona/tree/4---SPRINT)) 
 
 <br>
 
 ## :card_index_dividers: Cards das Sprints
-<img src="https://github.com/canismajoris3/visiona/blob/main/assets_readme/BACKLOG%20DAS%20SPRINTS.PNG" >
+<img src="https://github.com/canismajoris3/visiona/blob/main/assets_readme/CARD_SPRINTS.png" >
 
 <br>
 
@@ -93,13 +93,13 @@ SPRINT 4 ([Link da Pasta](https://github.com/canismajoris3/visiona/tree/4---SPRI
 ## :bar_chart: Backlog do Produto
 <h4 align="center"> Nosso Backlog do Produto tem como base as prioridades. </h4>
 <br>
-<h1 align="center"> <img src = "https://github.com/canismajoris3/visiona/blob/main/assets_readme/BACKLOG%20DO%20PRODUTO.PNG" /></h1>
+<h1 align="center"> <img src = "https://github.com/canismajoris3/visiona/blob/main/assets_readme/PRODUCT_BACKLOG.png" /></h1>
 
 <br>
 
 ## &#128195; Backlog da Sprint
 
-<h1 align="center"> <img src = "https://github.com/canismajoris3/visiona/blob/main/assets_readme/backlog_sprint1.PNG" /></h1>
+<h1 align="center"> <img src = "https://github.com/canismajoris3/visiona/blob/main/assets_readme/SPRINT_BACKLOG.png" /></h1>
 
 <br>
 
