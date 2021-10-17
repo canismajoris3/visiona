@@ -9,7 +9,8 @@ Na segunda entrega, decidimos juntamente com a necessidade do cliente, a aplicaÃ
 
 ## &#9193;PrÃ©via do Projeto
 
-<h1 align="center"> <img src = "IMAGEM VAI AQUI"/></h1>
+<h1 align="center"> <img src = "https://github.com/canismajoris3/visiona/blob/main/assets_readme/backend1.png"/></h1>
+<h1 align="center"> <img src = "https://github.com/canismajoris3/visiona/blob/main/assets_readme/backend2.png"/></h1>
 
 <br>
 
