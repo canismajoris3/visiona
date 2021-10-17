@@ -17,7 +17,7 @@ Na segunda entrega, decidimos juntamente com a necessidade do cliente, a aplicaÃ
 
 <h1>&#128200;Burndown</h1>
 
-<h1 align="center"> <img src = "https://github.com/canismajoris3/visiona/blob/main/assets_readme/burndown.PNG"/></h1>
+<h1 align="center"> <img src = "https://github.com/canismajoris3/visiona/blob/main/assets_readme/BURNDOWN%20SPRINT2.png"/></h1>
 
 <br>
 
