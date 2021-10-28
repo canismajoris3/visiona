@@ -1,6 +1,6 @@
 ## :ballot_box_with_check: Entrega 3 - SPRINT 3
 
-Na primeira entrega, decidimos juntamente com a necessidade do cliente, a aplicação do seguinte card:
+Na TERCEIRA entrega, decidimos juntamente com a necessidade do cliente, a aplicação do seguinte card:
 
 <h1 align="center"> <img src = "https://github.com/canismajoris3/visiona/blob/main/assets_readme/CARD_SPRINT3.png" /></h1>
 
