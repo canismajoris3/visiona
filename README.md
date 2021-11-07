@@ -17,7 +17,7 @@ Na TERCEIRA entrega, decidimos juntamente com a necessidade do cliente, a aplica
 
 <h1>&#128200;Burndown</h1>
 
-<h1 align="center"> <img src = "IMAGEM DO BURNDOWN SPRINT 3 - AQUI"/></h1>
+<h1 align="center"> <img src = "https://github.com/canismajoris3/visiona/blob/main/assets_readme/BURNDOWN%20SPRINT%203.png"/></h1>
 
 <br>
 
