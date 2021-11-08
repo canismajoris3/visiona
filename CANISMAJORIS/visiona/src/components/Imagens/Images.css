@@ -1,0 +1,51 @@
+.imagem{
+	background-color: #efefef
+}
+
+.imagemSat{
+ 	width: 100px; 
+	height: 100px;
+	background-color: #dfdfdf;
+	margin: 0;
+	border-radius: 50px;
+	border: none;
+}
+
+.buttonImage{
+	margin: 10px;
+}
+
+.blockImage{
+	width: 320px;
+	padding: 10px;
+}
+
+.blockImage ul{
+	list-style-type: none;
+	width: 100%;
+	text-align: center;
+}
+/* .blockImage li {
+	display: inline-block;
+	margin: 0 auto;
+	width: 50%;
+} */
+.blockImage li p{
+	font-size: 16px;
+	padding: 0;
+	margin: 0;
+}
+
+.blockImage .btn-images{
+	display:flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.blockImage button{
+	margin: 6px;
+}
+
+.listImage{
+	list-style: none;
+}

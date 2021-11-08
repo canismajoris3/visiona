@@ -1,0 +1,391 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;700&display=swap');
+
+#map {
+    position: fixed;
+    top: 80px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: #faa557;
+    z-index: -1;
+}
+
+/*==============*/
+/*INÍCIO SIDEBAR*/
+/*==============*/
+
+.sidebar{
+    position: absolute;
+    top: 0px;
+    width: 690px;
+    left: -690px;
+    height: 100%;
+    background-color: #e5e5e5;
+    visibility: hidden;
+    transition: all .5s ease;
+}
+
+#sidebar-cancel{
+    position: relative;
+    cursor: pointer;
+    color: white;
+    height: 100px;
+    width: 100px;
+    top: -25px;
+    left: 17px;
+    line-height: 100px;
+    text-align: center;
+    transition: all .5s ease;
+    text-decoration: none;
+}
+
+#container-filtros{
+    position: absolute;
+    height: 100%;
+    width: 50%;
+    background-color: #faa557;
+    align-items: center;
+    
+}
+
+#container-resultados{
+    background-color: white;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    margin-left: 5px;
+    left: 310px;
+    top: 0;
+}
+
+#titulo-resultados{
+    width: fit-content;
+    text-align: center;
+}
+
+.sidebar header{
+    position: relative;
+    font-size: 24px;
+    top: 50px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    left: 90px;
+}
+
+.btn-open-sidebar{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 30px;
+    bottom: 30px;
+    background-color: #faa557;
+    border-radius: 90px;
+}
+
+#btn-sidebar-icone{
+    position: relative;
+    font-size: 52px;
+    color: black;
+    left: 25px;
+    top: 10px;
+}
+
+.btn-close-sidebar{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 700px;
+    background-color: black;
+    border-radius: 10px;
+    visibility: hidden;
+    top: -50px;
+}
+
+
+#check{
+    display: none;
+}
+
+label .btn-open-sidebar, label .btn-close-sidebar{
+    cursor: pointer;
+    transition: all .3s ease;
+}
+
+#check:checked ~ .sidebar{
+    visibility: visible;
+    left: 0px;
+}
+
+#check:checked ~ label .btn-open-sidebar{
+    margin-left: 650px;
+    display: none;
+}
+
+#check:checked ~ label .btn-close-sidebar{
+    visibility: visible;
+    opacity: 100%;
+    top: 0px;
+}
+
+#check:checked ~ label .btn-close-sidebar:hover{
+    opacity: 100%;
+}
+
+.select-options{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#formFilters{
+    margin-top: 80px;
+}
+
+#customRange1{
+    color: #faa557;
+}
+
+#container-filtros h4{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.custom-select{
+    position: relative;
+    font-size: 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+    width: 90%;
+    padding: 10px;
+}
+
+.selecao-periodo{
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 90%;
+    height: fit-content;
+    top: 75px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.form-label{
+    position: relative;
+    top: 150px;
+    width: 90%;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.select-periodo-txt{
+    position: relative;
+    top: 0px;
+    left: 60px;
+}
+
+
+#select-periodo{
+    position: relative;
+    border-color: #faa557;
+    cursor: pointer;
+    height: 40px;
+    width: 110px;
+    border-radius: 10px;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+}
+
+#select-periodo2{
+    position: relative;
+    border-color: #faa557;
+    cursor: pointer;
+    height: 40px;
+    width: 110px;
+    border-radius: 10px;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.selecao-area{
+    position: relative;
+    top: 225px;
+    width: 90%;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.area-input{
+    width: 100%;
+    border-radius: 10px;
+}
+
+
+.buttonSearch{
+    font-weight: bold;
+    position: relative;
+    width: 210px;
+    top: 300px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: black;
+    color: #faa557;
+    border-width: 0px;
+    left: 35px;
+}
+
+/* .imagem{
+    position: relative;
+    color: transparent;
+    width: 210px;
+    height: 100px;
+    left: 50px;
+    border-radius: 10px;
+    border-color: #faa557;
+    margin-top: 20px;
+} */
+
+#img1{
+    top: 50px;
+}
+
+#img2{
+    top: 100px;
+}
+
+#img3{
+    top: 150px;
+}
+
+#img4{
+    top: 200px;
+}
+
+.imagem-constante{
+    position: inherit;
+    left: -7.5px;
+    border-radius: 10px;
+    top: -2.5px;
+}
+
+.select-options:hover{
+    color: white;
+    background-color: #faa557;
+}
+/*===========*/
+/*FIM SIDEBAR*/
+/*===========*/
+
+/*=============*/
+/*INÍCIO NAVBAR*/
+/*=============*/
+
+header{
+   font-family: inherit;
+}
+
+.title-navbar{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 28px;
+    padding: 31px;
+    line-height: 18px;
+    background-color: #faa557;
+}
+
+.title-black{
+    color: white;
+}
+
+
+
+/*==========*/
+/*FIM NAVBAR*/
+/*==========*/
+
+/*=====================*/
+/*INÍCIO BOTÕES DE ZOOM*/
+/*=====================*/
+
+.zoom{
+    position: fixed;
+    background-color: transparent;
+    border-radius: 5px;
+    bottom: 110px;
+    right: 10px;
+    height: 90px;
+    width: 40px;
+}
+
+.btn-zoom{
+    left: 4px;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    background-color: #faa557;
+    color: white;
+    border-radius: 5px;
+    border-color: white;
+    border-width: 0px;
+    align-items: center;
+}
+
+#zoom-in{
+    top: 10px;
+}
+
+#zoom-out{
+    top: 50px;
+}
+
+/*==================*/
+/*FIM BOTÕES DE ZOOM*/
+/*==================*/
+
+/*========================*/
+/*INÍCIO BOTÃO DE DOWNLOAD*/
+/*========================*/
+
+.btn-download{
+    position:fixed;
+    height: 70px;
+    width: 200px;
+    right: 10px;
+    bottom: 30px;
+    background-color: #faa557;
+    border-radius: 10px;
+    border-width: 0px;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+}
+
+
+/*=====================*/
+/*FIM BOTÃO DE DOWNLOAD*/
+/*=====================*/
+
+/*==================*/
+/*INÍCIO DIV DO MAPA*/
+/*==================*/
+
+.mapa{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 50px;
+    z-index: -1;
+}
+
+.mapa-img{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+/*===============*/
+/*FIM DIV DO MAPA*/
+/*===============*/
