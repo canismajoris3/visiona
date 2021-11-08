@@ -8,7 +8,7 @@ Na TERCEIRA entrega, decidimos juntamente com a necessidade do cliente, a aplica
 
 ## :desktop_computer: Layout
 
-<h1 align="center"> <img src = "GIFS DA SPRINT3 AQUI"/></h1>
+<h1 align="center"> <img src = "https://github.com/canismajoris3/visiona/blob/main/assets_readme/GIF_SPRINT3.gif"/></h1>
 
 
 <br>
