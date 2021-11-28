@@ -6,7 +6,7 @@ Na QUARTA entrega, decidimos juntamente com a necessidade do cliente, a aplicaç
 
 
 
-## :desktop_computer: Layout
+## :desktop_computer: Resultado Final da Sprint
 
 <h1 align="center"> <img src = "FOTO DO LAYOUT AQUI"/></h1>
 
