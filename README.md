@@ -17,7 +17,7 @@ Na QUARTA entrega, decidimos juntamente com a necessidade do cliente, a aplicaç
 
 <h1>&#128200;Burndown</h1>
 
-<h1 align="center"> <img src = "FOTO DO BURNDOWN QUARTA SPRINT AQUI"/></h1>
+<h1 align="center"> <img src = "https://github.com/canismajoris3/visiona/blob/main/assets_readme/BURNDOWN_SPRINT4"/></h1>
 
 <br>
 
