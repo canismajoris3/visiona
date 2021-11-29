@@ -8,7 +8,7 @@ Na QUARTA entrega, decidimos juntamente com a necessidade do cliente, a aplicaç
 
 ## :desktop_computer: Resultado Final da Sprint
 
-<h1 align="center"> <img src = "FOTO DO LAYOUT AQUI"/></h1>
+<h1 align="center"> <img src = "https://github.com/canismajoris3/visiona/blob/main/assets_readme/GIF%20SPRINT%204.gif"/></h1>
 
 
 <br>
