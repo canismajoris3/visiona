@@ -68,9 +68,9 @@ Trabalho desenvolvido pelos integrantes do grupo 3 do curso de Desenvolvimento d
 
 ☑️ SPRINT 2 ([Link da Pasta](https://github.com/canismajoris3/visiona/tree/2---SPRINT)) Concluído :heavy_check_mark:
 
-SPRINT 3 ([Link da Pasta](https://github.com/canismajoris3/visiona/tree/3---SPRINT))
+☑️ SPRINT 3 ([Link da Pasta](https://github.com/canismajoris3/visiona/tree/3---SPRINT)) Concluído :heavy_check_mark:
 
-SPRINT 4 ([Link da Pasta](https://github.com/canismajoris3/visiona/tree/4---SPRINT)) 
+☑️ SPRINT 4 ([Link da Pasta](https://github.com/canismajoris3/visiona/tree/4---SPRINT)) Concluído :heavy_check_mark: 
 
 <br>
 
